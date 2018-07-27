@@ -1,5 +1,5 @@
-# Heat-Equation-Solutions
-Numerical solutions to the heat equation using various approximation techniques. This repository contains MATLAB implementations of Backward Euler, Forward Euler and Crank-Nicolson approximations to the solution of 
+# Heat Equation Solutions
+This repository contains MATLAB implementations of Backward Euler, Forward Euler and Crank-Nicolson approximations to the solutions of the heat equation: 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=u_t&space;-&space;u_{xx}&space;=f,&space;\:\:\:\:&space;x\in&space;(0,1),&space;\:\:\:\:&space;0&space;<&space;t&space;\leq&space;T,&space;\:\:\:\:&space;u(0)=u(1)&space;=0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u_t&space;-&space;u_{xx}&space;=f,&space;\:\:\:\:&space;x\in&space;(0,1),&space;\:\:\:\:&space;0&space;<&space;t&space;\leq&space;T,&space;\:\:\:\:&space;u(0)=u(1)&space;=0" title="u_t - u_{xx} =f, \:\:\:\: x\in (0,1), \:\:\:\: 0 < t \leq T, \:\:\:\: u(0)=u(1) =0" /></a>
 
